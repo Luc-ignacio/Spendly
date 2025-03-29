@@ -2,7 +2,7 @@
 
 **Spendly** is a simple and responsive expense tracker built with Vue.js. It helps you manage your day-to-day finances by tracking income and expenses — all stored locally in your browser using localStorage. No sign-up needed, no data lost on refresh.
 
-![Spendly](https://github.com/user-attachments/assets/0324c508-d763-420a-9102-c4e306ca1fab)
+![Spendly](https://github.com/user-attachments/assets/a076a6eb-e6ee-4c39-8a57-4779ecc7348d)
 
 
 ## 🌍 **Live Website:** [Spendly](https://luc-ignacio.github.io/Spendly/)
