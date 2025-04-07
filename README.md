@@ -37,7 +37,7 @@ To set up the project locally, follow these steps:
 
 ```sh
 # Clone the repository
-git clone https://github.com/luc-ignacio/Spendly.git
+git clone https://github.com/Luc-ignacio/Spendly.git
 cd Spendly
 
 # Install dependencies
